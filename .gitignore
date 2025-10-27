@@ -1,0 +1,8 @@
+# Папка з залежностями
+node_modules/
+
+# Тимчасові файли
+uploads/
+
+# Лог-файли npm
+npm-debug.log

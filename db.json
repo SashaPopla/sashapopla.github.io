@@ -1,0 +1,629 @@
+{
+  "words": [
+    {
+      "english": "jugular vein",
+      "ukrainian": "яремна вена",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "trachea",
+      "ukrainian": "трахея",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "lungs",
+      "ukrainian": "легені",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "surgical resident",
+      "ukrainian": "ординатор-хірург / лікар-інтерн хірургічного відділення",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "anatomy",
+      "ukrainian": "анатомія",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "autism",
+      "ukrainian": "аутизм",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "savant syndrome",
+      "ukrainian": "синдром саванта",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "recall / memory",
+      "ukrainian": "пам’ять / відтворення",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "spatial intelligence",
+      "ukrainian": "просторовий інтелект",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "consent / informed consent",
+      "ukrainian": "згода / інформована згода",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "intrathoracic pressure",
+      "ukrainian": "внутрішньогрудний тиск",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "artificial respiration",
+      "ukrainian": "штучне дихання",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "bypass surgery",
+      "ukrainian": "операція шунтування (байпас-операція)",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "pericardial effusion",
+      "ukrainian": "перикардіальний випіт",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "ecg (electrocardiogram)",
+      "ukrainian": "ЕКГ (електрокардіограма)",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "o.r. (operating room)",
+      "ukrainian": "операційна",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "incision",
+      "ukrainian": "розріз",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "valve / one-way valve",
+      "ukrainian": "клапан / односторонній клапан",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "aorta / descending aorta",
+      "ukrainian": "аорта / низхідна аорта",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "vascular clamp",
+      "ukrainian": "судинний затискач",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "abscess",
+      "ukrainian": "абсцес",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "lap sponge",
+      "ukrainian": "марлевий тампон",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "bp (blood pressure)",
+      "ukrainian": "АТ (артеріальний тиск)",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "packed cells / transfusion",
+      "ukrainian": "еритроцитарна маса / переливання крові",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "pneumothorax",
+      "ukrainian": "пневмоторакс",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "laceration",
+      "ukrainian": "рвана рана / розсічення",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "echocardiogram",
+      "ukrainian": "ехокардіограма",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "permanent disability",
+      "ukrainian": "постійна інвалідність",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "malpractice insurance",
+      "ukrainian": "страховка від лікарської помилки",
+      "part_of_speech": "Noun"
+    },
+    {
+      "english": "bleed out",
+      "ukrainian": "стекти кров’ю",
+      "part_of_speech": "Verb"
+    },
+    {
+      "english": "operate (on a patient)",
+      "ukrainian": "оперувати пацієнта",
+      "part_of_speech": "Verb"
+    },
+    {
+      "english": "repair (a heart)",
+      "ukrainian": "відновити (роботу) серця",
+      "part_of_speech": "Verb"
+    },
+    {
+      "english": "restart (a heart)",
+      "ukrainian": "перезапустити серце",
+      "part_of_speech": "Verb"
+    },
+    {
+      "english": "stabilize",
+      "ukrainian": "стабілізувати",
+      "part_of_speech": "Verb"
+    },
+    {
+      "english": "diagnose",
+      "ukrainian": "діагностувати",
+      "part_of_speech": "Verb"
+    },
+    {
+      "english": "analyze",
+      "ukrainian": "аналізувати",
+      "part_of_speech": "Verb"
+    },
+    {
+      "english": "suction",
+      "ukrainian": "відсмоктувати (рідини під час операції)",
+      "part_of_speech": "Verb"
+    },
+    {
+      "english": "isolate (an artery/aorta)",
+      "ukrainian": "виділити (артерію / аорту)",
+      "part_of_speech": "Verb"
+    },
+    {
+      "english": "insert (a tube)",
+      "ukrainian": "ввести трубку",
+      "part_of_speech": "Verb"
+    },
+    {
+      "english": "resuscitate",
+      "ukrainian": "реанімувати",
+      "part_of_speech": "Verb"
+    },
+    {
+      "english": "ventilate (a patient)",
+      "ukrainian": "здійснювати вентиляцію легенів",
+      "part_of_speech": "Verb"
+    },
+    {
+      "english": "critical (condition)",
+      "ukrainian": "критичний (стан)",
+      "part_of_speech": "Adjective"
+    },
+    {
+      "english": "stable / unstable (patient)",
+      "ukrainian": "стабільний / нестабільний (пацієнт)",
+      "part_of_speech": "Adjective"
+    },
+    {
+      "english": "paradoxical (breathing)",
+      "ukrainian": "парадоксальне (дихання)",
+      "part_of_speech": "Adjective"
+    },
+    {
+      "english": "mortal (condition)",
+      "ukrainian": "смертельний (стан)",
+      "part_of_speech": "Adjective"
+    },
+    {
+      "english": "panic-stricken",
+      "ukrainian": "охоплений панікою",
+      "part_of_speech": "Adjective"
+    },
+    {
+      "english": "extraordinary (skills)",
+      "ukrainian": "надзвичайні (навички)",
+      "part_of_speech": "Adjective"
+    },
+    {
+      "english": "subtle (symptoms)",
+      "ukrainian": "малопомітні (симптоми)",
+      "part_of_speech": "Adjective"
+    },
+    {
+      "english": "urgently (needs surgery)",
+      "ukrainian": "терміново (потребує операції)",
+      "part_of_speech": "Adverb"
+    },
+    {
+      "english": "fatally (injured)",
+      "ukrainian": "смертельно (травмований)",
+      "part_of_speech": "Adverb"
+    },
+    {
+      "english": "paradoxically (moving chest)",
+      "ukrainian": "парадоксально (рухається грудна клітка)",
+      "part_of_speech": "Adverb"
+    },
+    {
+      "english": "call 911",
+      "ukrainian": "викликати швидку / поліцію (911)",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "save a life",
+      "ukrainian": "врятувати життя",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "put pressure (on a wound)",
+      "ukrainian": "притиснути (ра́ну)",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "stop the bleeding",
+      "ukrainian": "зупинити кровотечу",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "stop the heart / restart the heart",
+      "ukrainian": "зупинити серце / перезапустити серце",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "consent to surgery",
+      "ukrainian": "дати згоду на операцію",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "intrathoracic pressure rising",
+      "ukrainian": "зростає внутрішньогрудний тиск",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "chest is moving paradoxically",
+      "ukrainian": "грудна клітка рухається парадоксально",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "insert a tube",
+      "ukrainian": "вставити трубку",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "perform an incision",
+      "ukrainian": "зробити розріз",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "isolate the aorta",
+      "ukrainian": "виділити аорту",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "pack cells / blood transfusion",
+      "ukrainian": "переливання еритроцитарної маси / крові",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "bleeding out",
+      "ukrainian": "стікати кров’ю",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "saving his life",
+      "ukrainian": "рятувати його життя",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "high functioning (autism)",
+      "ukrainian": "високо функціонуючий аутизм",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "life or death situation",
+      "ukrainian": "ситуація життя чи смерті",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "wrap his head around (it)",
+      "ukrainian": "усвідомити / зрозуміти",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "cut off (vein, trachea)",
+      "ukrainian": "перерізати (вену, трахею)",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "pass out",
+      "ukrainian": "знепритомніти",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "give up (on a patient)",
+      "ukrainian": "відмовитися від пацієнта",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "wake up (from surgery/anesthesia)",
+      "ukrainian": "прокинутися (після операції/наркозу)",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "ventilator (b2)",
+      "ukrainian": "апарат ШВЛ",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "angiogram (c1)",
+      "ukrainian": "ангіограма",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "arterial inflow phase (c2)",
+      "ukrainian": "фаза артеріального кровопостачання",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "malformation (c2)",
+      "ukrainian": "аномалія, порушення структури",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "circle of willis (c2)",
+      "ukrainian": "судинне коло Вілліса",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "cardiac catheterization (c2)",
+      "ukrainian": "катетеризація серця",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "ventriculogram (c2)",
+      "ukrainian": "вентрикулографія",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "ecmo (extracorporeal membrane oxygenation) (c2)",
+      "ukrainian": "екстракорпоральна мембранна оксигенація",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "femoral vessels (c2)",
+      "ukrainian": "стегнові судини",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "anastomotic grafts (c2)",
+      "ukrainian": "анастомотичні трансплантати",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "bp (blood pressure) (b2)",
+      "ukrainian": "артеріальний тиск",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "v-fib (ventricular fibrillation) (c2)",
+      "ukrainian": "фібриляція шлуночків",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "bnp (b-type natriuretic peptide) (c2)",
+      "ukrainian": "пептидний біомаркер серцевої недостатності",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "eeg (electroencephalogram) (b2)",
+      "ukrainian": "електроенцефалографія",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "ekg / ecg (electrocardiogram) (b2)",
+      "ukrainian": "електрокардіограма",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "cardio protein levels (c2)",
+      "ukrainian": "рівень серцевих білків",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "metabolic demand (c1)",
+      "ukrainian": "метаболічне навантаження",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "stabilize (b2)",
+      "ukrainian": "стабілізувати",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "regain consciousness (c1)",
+      "ukrainian": "відновити свідомість",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "bypass (c2)",
+      "ukrainian": "обійти, створити шунт",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "inflate (c2)",
+      "ukrainian": "надувати, розширювати (наприклад балонний катетер)",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "abort (c2)",
+      "ukrainian": "припиняти процедуру",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "sever (c2)",
+      "ukrainian": "роз’єднувати, відділяти",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "acquiesce (c2)",
+      "ukrainian": "поступитися, погодитися без протесту",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "redistribute (c2)",
+      "ukrainian": "перерозподіляти",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "monitor (b2)",
+      "ukrainian": "спостерігати, контролювати",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "tolerate (b2/c1)",
+      "ukrainian": "витримувати, переносити",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "awake (b2)",
+      "ukrainian": "у свідомості",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "unresponsive (c1)",
+      "ukrainian": "без відповіді, не реагуючий",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "higher-cognitive (c2)",
+      "ukrainian": "високорозвинений когнітивний",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "massive (b2/c1)",
+      "ukrainian": "величезний, масивний",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "catastrophic (c2)",
+      "ukrainian": "катастрофічний",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "identical (b2)",
+      "ukrainian": "ідентичний, однаковий",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "monozygotic (c2)",
+      "ukrainian": "однояйцеві",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "peacefully (b2)",
+      "ukrainian": "спокійно, безболісно",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "virtually (b2)",
+      "ukrainian": "практично, фактично",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "closely (b2)",
+      "ukrainian": "уважно, ретельно",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "off life support (c1)",
+      "ukrainian": "після відключення від апарату підтримки життя",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "on my own (b2)",
+      "ukrainian": "самостійно, наодинці",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "technical skills beyond his years (c2)",
+      "ukrainian": "технічні навички поза віком",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "power down ventilator (c2)",
+      "ukrainian": "відключити апарат ШВЛ",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "redistribute fluid (c2)",
+      "ukrainian": "перерозподілити рідину",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "metabolic demand on the heart (c1)",
+      "ukrainian": "метаболічне навантаження на серце",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "monitor cardiac labs and echoes (c2)",
+      "ukrainian": "контролювати серцеві аналізи та Ехо",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "biochemical markers for two hearts (c2)",
+      "ukrainian": "біохімічні маркери для двох сердець",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "hemodynamic strain (c2)",
+      "ukrainian": "гемодинамічне навантаження",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "anastomotic grafts adjustment (c2)",
+      "ukrainian": "регулювання анастомотичних трансплантатів",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "take a break, clear your head (b2)",
+      "ukrainian": "зробити паузу, відволіктися",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "look out (b2)",
+      "ukrainian": "обережно, звернути увагу",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "push a milligram epinephrine (c2)",
+      "ukrainian": "термінова медикаментозна дія (в контексті)",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "start chest compressions (b2)",
+      "ukrainian": "розпочати серцево-легеневу реанімацію",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "bring on board (c2)",
+      "ukrainian": "підключити до лікувальної процедури, «дати дозу»",
+      "part_of_speech": "Phrase/Other"
+    },
+    {
+      "english": "on the fly (c2)",
+      "ukrainian": "швидко, імпровізовано",
+      "part_of_speech": "Phrase/Other"
+    }
+  ]
+}
